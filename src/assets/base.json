@@ -1,0 +1,1811 @@
+[
+  {
+    "make": "alfa-romero",
+    "fuel_type": "gas",
+    "number_of_doors": "two",
+    "body_style": "convertible",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 13495
+  },
+  {
+    "make": "alfa-romero",
+    "fuel_type": "gas",
+    "number_of_doors": "two",
+    "body_style": "convertible",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 16500
+  },
+  {
+    "make": "alfa-romero",
+    "fuel_type": "gas",
+    "number_of_doors": "two",
+    "body_style": "hatchback",
+    "engine_location": "front",
+    "number_of_cylinders": "six",
+    "price": 16500
+  },
+  {
+    "make": "audi",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "sedan",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 13950
+  },
+  {
+    "make": "audi",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "sedan",
+    "engine_location": "front",
+    "number_of_cylinders": "five",
+    "price": 17450
+  },
+  {
+    "make": "audi",
+    "fuel_type": "gas",
+    "number_of_doors": "two",
+    "body_style": "sedan",
+    "engine_location": "front",
+    "number_of_cylinders": "five",
+    "price": 15250
+  },
+  {
+    "make": "audi",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "sedan",
+    "engine_location": "front",
+    "number_of_cylinders": "five",
+    "price": 17710
+  },
+  {
+    "make": "audi",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "wagon",
+    "engine_location": "front",
+    "number_of_cylinders": "five",
+    "price": 18920
+  },
+  {
+    "make": "audi",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "sedan",
+    "engine_location": "front",
+    "number_of_cylinders": "five",
+    "price": 23875
+  },
+  {
+    "make": "bmw",
+    "fuel_type": "gas",
+    "number_of_doors": "two",
+    "body_style": "sedan",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 16430
+  },
+  {
+    "make": "bmw",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "sedan",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 16925
+  },
+  {
+    "make": "bmw",
+    "fuel_type": "gas",
+    "number_of_doors": "two",
+    "body_style": "sedan",
+    "engine_location": "front",
+    "number_of_cylinders": "six",
+    "price": 20970
+  },
+  {
+    "make": "bmw",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "sedan",
+    "engine_location": "front",
+    "number_of_cylinders": "six",
+    "price": 21105
+  },
+  {
+    "make": "bmw",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "sedan",
+    "engine_location": "front",
+    "number_of_cylinders": "six",
+    "price": 24565
+  },
+  {
+    "make": "bmw",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "sedan",
+    "engine_location": "front",
+    "number_of_cylinders": "six",
+    "price": 30760
+  },
+  {
+    "make": "bmw",
+    "fuel_type": "gas",
+    "number_of_doors": "two",
+    "body_style": "sedan",
+    "engine_location": "front",
+    "number_of_cylinders": "six",
+    "price": 41315
+  },
+  {
+    "make": "bmw",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "sedan",
+    "engine_location": "front",
+    "number_of_cylinders": "six",
+    "price": 36880
+  },
+  {
+    "make": "chevrolet",
+    "fuel_type": "gas",
+    "number_of_doors": "two",
+    "body_style": "hatchback",
+    "engine_location": "front",
+    "number_of_cylinders": "three",
+    "price": 5151
+  },
+  {
+    "make": "chevrolet",
+    "fuel_type": "gas",
+    "number_of_doors": "two",
+    "body_style": "hatchback",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 6295
+  },
+  {
+    "make": "chevrolet",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "sedan",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 6575
+  },
+  {
+    "make": "dodge",
+    "fuel_type": "gas",
+    "number_of_doors": "two",
+    "body_style": "hatchback",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 5572
+  },
+  {
+    "make": "dodge",
+    "fuel_type": "gas",
+    "number_of_doors": "two",
+    "body_style": "hatchback",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 6377
+  },
+  {
+    "make": "dodge",
+    "fuel_type": "gas",
+    "number_of_doors": "two",
+    "body_style": "hatchback",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 7957
+  },
+  {
+    "make": "dodge",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "hatchback",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 6229
+  },
+  {
+    "make": "dodge",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "sedan",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 6692
+  },
+  {
+    "make": "dodge",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "sedan",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 7609
+  },
+  {
+    "make": "dodge",
+    "fuel_type": "gas",
+    "number_of_doors": "two",
+    "body_style": "sedan",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 8558
+  },
+  {
+    "make": "dodge",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "wagon",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 8921
+  },
+  {
+    "make": "dodge",
+    "fuel_type": "gas",
+    "number_of_doors": "two",
+    "body_style": "hatchback",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 12964
+  },
+  {
+    "make": "honda",
+    "fuel_type": "gas",
+    "number_of_doors": "two",
+    "body_style": "hatchback",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 6479
+  },
+  {
+    "make": "honda",
+    "fuel_type": "gas",
+    "number_of_doors": "two",
+    "body_style": "hatchback",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 6855
+  },
+  {
+    "make": "honda",
+    "fuel_type": "gas",
+    "number_of_doors": "two",
+    "body_style": "hatchback",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 5399
+  },
+  {
+    "make": "honda",
+    "fuel_type": "gas",
+    "number_of_doors": "two",
+    "body_style": "hatchback",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 6529
+  },
+  {
+    "make": "honda",
+    "fuel_type": "gas",
+    "number_of_doors": "two",
+    "body_style": "hatchback",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 7129
+  },
+  {
+    "make": "honda",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "sedan",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 7295
+  },
+  {
+    "make": "honda",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "wagon",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 7295
+  },
+  {
+    "make": "honda",
+    "fuel_type": "gas",
+    "number_of_doors": "two",
+    "body_style": "hatchback",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 7895
+  },
+  {
+    "make": "honda",
+    "fuel_type": "gas",
+    "number_of_doors": "two",
+    "body_style": "hatchback",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 9095
+  },
+  {
+    "make": "honda",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "sedan",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 8845
+  },
+  {
+    "make": "honda",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "sedan",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 10295
+  },
+  {
+    "make": "honda",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "sedan",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 12945
+  },
+  {
+    "make": "honda",
+    "fuel_type": "gas",
+    "number_of_doors": "two",
+    "body_style": "sedan",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 10345
+  },
+  {
+    "make": "isuzu",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "sedan",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 6785
+  },
+  {
+    "make": "isuzu",
+    "fuel_type": "gas",
+    "number_of_doors": "two",
+    "body_style": "hatchback",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 11048
+  },
+  {
+    "make": "jaguar",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "sedan",
+    "engine_location": "front",
+    "number_of_cylinders": "six",
+    "price": 32250
+  },
+  {
+    "make": "jaguar",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "sedan",
+    "engine_location": "front",
+    "number_of_cylinders": "six",
+    "price": 35550
+  },
+  {
+    "make": "jaguar",
+    "fuel_type": "gas",
+    "number_of_doors": "two",
+    "body_style": "sedan",
+    "engine_location": "front",
+    "number_of_cylinders": "twelve",
+    "price": 36000
+  },
+  {
+    "make": "mazda",
+    "fuel_type": "gas",
+    "number_of_doors": "two",
+    "body_style": "hatchback",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 5195
+  },
+  {
+    "make": "mazda",
+    "fuel_type": "gas",
+    "number_of_doors": "two",
+    "body_style": "hatchback",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 6095
+  },
+  {
+    "make": "mazda",
+    "fuel_type": "gas",
+    "number_of_doors": "two",
+    "body_style": "hatchback",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 6795
+  },
+  {
+    "make": "mazda",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "sedan",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 6695
+  },
+  {
+    "make": "mazda",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "sedan",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 7395
+  },
+  {
+    "make": "mazda",
+    "fuel_type": "gas",
+    "number_of_doors": "two",
+    "body_style": "hatchback",
+    "engine_location": "front",
+    "number_of_cylinders": "two",
+    "price": 10945
+  },
+  {
+    "make": "mazda",
+    "fuel_type": "gas",
+    "number_of_doors": "two",
+    "body_style": "hatchback",
+    "engine_location": "front",
+    "number_of_cylinders": "two",
+    "price": 11845
+  },
+  {
+    "make": "mazda",
+    "fuel_type": "gas",
+    "number_of_doors": "two",
+    "body_style": "hatchback",
+    "engine_location": "front",
+    "number_of_cylinders": "two",
+    "price": 13645
+  },
+  {
+    "make": "mazda",
+    "fuel_type": "gas",
+    "number_of_doors": "two",
+    "body_style": "hatchback",
+    "engine_location": "front",
+    "number_of_cylinders": "two",
+    "price": 15645
+  },
+  {
+    "make": "mazda",
+    "fuel_type": "gas",
+    "number_of_doors": "two",
+    "body_style": "hatchback",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 8845
+  },
+  {
+    "make": "mazda",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "sedan",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 8495
+  },
+  {
+    "make": "mazda",
+    "fuel_type": "gas",
+    "number_of_doors": "two",
+    "body_style": "hatchback",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 10595
+  },
+  {
+    "make": "mazda",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "sedan",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 10245
+  },
+  {
+    "make": "mazda",
+    "fuel_type": "diesel",
+    "number_of_doors": "four",
+    "body_style": "sedan",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 10795
+  },
+  {
+    "make": "mazda",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "hatchback",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 11245
+  },
+  {
+    "make": "mazda",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "sedan",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 18280
+  },
+  {
+    "make": "mazda",
+    "fuel_type": "diesel",
+    "number_of_doors": "four",
+    "body_style": "sedan",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 18344
+  },
+  {
+    "make": "mercedes-benz",
+    "fuel_type": "diesel",
+    "number_of_doors": "four",
+    "body_style": "sedan",
+    "engine_location": "front",
+    "number_of_cylinders": "five",
+    "price": 25552
+  },
+  {
+    "make": "mercedes-benz",
+    "fuel_type": "diesel",
+    "number_of_doors": "four",
+    "body_style": "wagon",
+    "engine_location": "front",
+    "number_of_cylinders": "five",
+    "price": 28248
+  },
+  {
+    "make": "mercedes-benz",
+    "fuel_type": "diesel",
+    "number_of_doors": "two",
+    "body_style": "hardtop",
+    "engine_location": "front",
+    "number_of_cylinders": "five",
+    "price": 28176
+  },
+  {
+    "make": "mercedes-benz",
+    "fuel_type": "diesel",
+    "number_of_doors": "four",
+    "body_style": "sedan",
+    "engine_location": "front",
+    "number_of_cylinders": "five",
+    "price": 31600
+  },
+  {
+    "make": "mercedes-benz",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "sedan",
+    "engine_location": "front",
+    "number_of_cylinders": "eight",
+    "price": 34184
+  },
+  {
+    "make": "mercedes-benz",
+    "fuel_type": "gas",
+    "number_of_doors": "two",
+    "body_style": "convertible",
+    "engine_location": "front",
+    "number_of_cylinders": "eight",
+    "price": 35056
+  },
+  {
+    "make": "mercedes-benz",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "sedan",
+    "engine_location": "front",
+    "number_of_cylinders": "eight",
+    "price": 40960
+  },
+  {
+    "make": "mercedes-benz",
+    "fuel_type": "gas",
+    "number_of_doors": "two",
+    "body_style": "hardtop",
+    "engine_location": "front",
+    "number_of_cylinders": "eight",
+    "price": 45400
+  },
+  {
+    "make": "mercury",
+    "fuel_type": "gas",
+    "number_of_doors": "two",
+    "body_style": "hatchback",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 16503
+  },
+  {
+    "make": "mitsubishi",
+    "fuel_type": "gas",
+    "number_of_doors": "two",
+    "body_style": "hatchback",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 5389
+  },
+  {
+    "make": "mitsubishi",
+    "fuel_type": "gas",
+    "number_of_doors": "two",
+    "body_style": "hatchback",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 6189
+  },
+  {
+    "make": "mitsubishi",
+    "fuel_type": "gas",
+    "number_of_doors": "two",
+    "body_style": "hatchback",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 6669
+  },
+  {
+    "make": "mitsubishi",
+    "fuel_type": "gas",
+    "number_of_doors": "two",
+    "body_style": "hatchback",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 7689
+  },
+  {
+    "make": "mitsubishi",
+    "fuel_type": "gas",
+    "number_of_doors": "two",
+    "body_style": "hatchback",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 9959
+  },
+  {
+    "make": "mitsubishi",
+    "fuel_type": "gas",
+    "number_of_doors": "two",
+    "body_style": "hatchback",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 8499
+  },
+  {
+    "make": "mitsubishi",
+    "fuel_type": "gas",
+    "number_of_doors": "two",
+    "body_style": "hatchback",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 12629
+  },
+  {
+    "make": "mitsubishi",
+    "fuel_type": "gas",
+    "number_of_doors": "two",
+    "body_style": "hatchback",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 14869
+  },
+  {
+    "make": "mitsubishi",
+    "fuel_type": "gas",
+    "number_of_doors": "two",
+    "body_style": "hatchback",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 14489
+  },
+  {
+    "make": "mitsubishi",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "sedan",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 6989
+  },
+  {
+    "make": "mitsubishi",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "sedan",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 8189
+  },
+  {
+    "make": "mitsubishi",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "sedan",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 9279
+  },
+  {
+    "make": "mitsubishi",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "sedan",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 9279
+  },
+  {
+    "make": "nissan",
+    "fuel_type": "gas",
+    "number_of_doors": "two",
+    "body_style": "sedan",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 5499
+  },
+  {
+    "make": "nissan",
+    "fuel_type": "diesel",
+    "number_of_doors": "two",
+    "body_style": "sedan",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 7099
+  },
+  {
+    "make": "nissan",
+    "fuel_type": "gas",
+    "number_of_doors": "two",
+    "body_style": "sedan",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 6649
+  },
+  {
+    "make": "nissan",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "sedan",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 6849
+  },
+  {
+    "make": "nissan",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "wagon",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 7349
+  },
+  {
+    "make": "nissan",
+    "fuel_type": "gas",
+    "number_of_doors": "two",
+    "body_style": "sedan",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 7299
+  },
+  {
+    "make": "nissan",
+    "fuel_type": "gas",
+    "number_of_doors": "two",
+    "body_style": "hatchback",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 7799
+  },
+  {
+    "make": "nissan",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "sedan",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 7499
+  },
+  {
+    "make": "nissan",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "wagon",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 7999
+  },
+  {
+    "make": "nissan",
+    "fuel_type": "gas",
+    "number_of_doors": "two",
+    "body_style": "hardtop",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 8249
+  },
+  {
+    "make": "nissan",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "hatchback",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 8949
+  },
+  {
+    "make": "nissan",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "sedan",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 9549
+  },
+  {
+    "make": "nissan",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "sedan",
+    "engine_location": "front",
+    "number_of_cylinders": "six",
+    "price": 13499
+  },
+  {
+    "make": "nissan",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "wagon",
+    "engine_location": "front",
+    "number_of_cylinders": "six",
+    "price": 14399
+  },
+  {
+    "make": "nissan",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "sedan",
+    "engine_location": "front",
+    "number_of_cylinders": "six",
+    "price": 13499
+  },
+  {
+    "make": "nissan",
+    "fuel_type": "gas",
+    "number_of_doors": "two",
+    "body_style": "hatchback",
+    "engine_location": "front",
+    "number_of_cylinders": "six",
+    "price": 17199
+  },
+  {
+    "make": "nissan",
+    "fuel_type": "gas",
+    "number_of_doors": "two",
+    "body_style": "hatchback",
+    "engine_location": "front",
+    "number_of_cylinders": "six",
+    "price": 19699
+  },
+  {
+    "make": "nissan",
+    "fuel_type": "gas",
+    "number_of_doors": "two",
+    "body_style": "hatchback",
+    "engine_location": "front",
+    "number_of_cylinders": "six",
+    "price": 18399
+  },
+  {
+    "make": "peugot",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "sedan",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 11900
+  },
+  {
+    "make": "peugot",
+    "fuel_type": "diesel",
+    "number_of_doors": "four",
+    "body_style": "sedan",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 13200
+  },
+  {
+    "make": "peugot",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "wagon",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 12440
+  },
+  {
+    "make": "peugot",
+    "fuel_type": "diesel",
+    "number_of_doors": "four",
+    "body_style": "wagon",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 13860
+  },
+  {
+    "make": "peugot",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "sedan",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 15580
+  },
+  {
+    "make": "peugot",
+    "fuel_type": "diesel",
+    "number_of_doors": "four",
+    "body_style": "sedan",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 16900
+  },
+  {
+    "make": "peugot",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "wagon",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 16695
+  },
+  {
+    "make": "peugot",
+    "fuel_type": "diesel",
+    "number_of_doors": "four",
+    "body_style": "wagon",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 17075
+  },
+  {
+    "make": "peugot",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "sedan",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 16630
+  },
+  {
+    "make": "peugot",
+    "fuel_type": "diesel",
+    "number_of_doors": "four",
+    "body_style": "sedan",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 17950
+  },
+  {
+    "make": "peugot",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "sedan",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 18150
+  },
+  {
+    "make": "plymouth",
+    "fuel_type": "gas",
+    "number_of_doors": "two",
+    "body_style": "hatchback",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 5572
+  },
+  {
+    "make": "plymouth",
+    "fuel_type": "gas",
+    "number_of_doors": "two",
+    "body_style": "hatchback",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 7957
+  },
+  {
+    "make": "plymouth",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "hatchback",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 6229
+  },
+  {
+    "make": "plymouth",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "sedan",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 6692
+  },
+  {
+    "make": "plymouth",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "sedan",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 7609
+  },
+  {
+    "make": "plymouth",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "wagon",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 8921
+  },
+  {
+    "make": "plymouth",
+    "fuel_type": "gas",
+    "number_of_doors": "two",
+    "body_style": "hatchback",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 12764
+  },
+  {
+    "make": "porsche",
+    "fuel_type": "gas",
+    "number_of_doors": "two",
+    "body_style": "hatchback",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 22018
+  },
+  {
+    "make": "porsche",
+    "fuel_type": "gas",
+    "number_of_doors": "two",
+    "body_style": "hardtop",
+    "engine_location": "rear",
+    "number_of_cylinders": "six",
+    "price": 32528
+  },
+  {
+    "make": "porsche",
+    "fuel_type": "gas",
+    "number_of_doors": "two",
+    "body_style": "hardtop",
+    "engine_location": "rear",
+    "number_of_cylinders": "six",
+    "price": 34028
+  },
+  {
+    "make": "porsche",
+    "fuel_type": "gas",
+    "number_of_doors": "two",
+    "body_style": "convertible",
+    "engine_location": "rear",
+    "number_of_cylinders": "six",
+    "price": 37028
+  },
+  {
+    "make": "renault",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "wagon",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 9295
+  },
+  {
+    "make": "renault",
+    "fuel_type": "gas",
+    "number_of_doors": "two",
+    "body_style": "hatchback",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 9895
+  },
+  {
+    "make": "saab",
+    "fuel_type": "gas",
+    "number_of_doors": "two",
+    "body_style": "hatchback",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 11850
+  },
+  {
+    "make": "saab",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "sedan",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 12170
+  },
+  {
+    "make": "saab",
+    "fuel_type": "gas",
+    "number_of_doors": "two",
+    "body_style": "hatchback",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 15040
+  },
+  {
+    "make": "saab",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "sedan",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 15510
+  },
+  {
+    "make": "saab",
+    "fuel_type": "gas",
+    "number_of_doors": "two",
+    "body_style": "hatchback",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 18150
+  },
+  {
+    "make": "saab",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "sedan",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 18620
+  },
+  {
+    "make": "subaru",
+    "fuel_type": "gas",
+    "number_of_doors": "two",
+    "body_style": "hatchback",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 5118
+  },
+  {
+    "make": "subaru",
+    "fuel_type": "gas",
+    "number_of_doors": "two",
+    "body_style": "hatchback",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 7053
+  },
+  {
+    "make": "subaru",
+    "fuel_type": "gas",
+    "number_of_doors": "two",
+    "body_style": "hatchback",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 7603
+  },
+  {
+    "make": "subaru",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "sedan",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 7126
+  },
+  {
+    "make": "subaru",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "sedan",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 7775
+  },
+  {
+    "make": "subaru",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "sedan",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 9960
+  },
+  {
+    "make": "subaru",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "sedan",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 9233
+  },
+  {
+    "make": "subaru",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "sedan",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 11259
+  },
+  {
+    "make": "subaru",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "wagon",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 7463
+  },
+  {
+    "make": "subaru",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "wagon",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 10198
+  },
+  {
+    "make": "subaru",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "wagon",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 8013
+  },
+  {
+    "make": "subaru",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "wagon",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 11694
+  },
+  {
+    "make": "toyota",
+    "fuel_type": "gas",
+    "number_of_doors": "two",
+    "body_style": "hatchback",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 5348
+  },
+  {
+    "make": "toyota",
+    "fuel_type": "gas",
+    "number_of_doors": "two",
+    "body_style": "hatchback",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 6338
+  },
+  {
+    "make": "toyota",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "hatchback",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 6488
+  },
+  {
+    "make": "toyota",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "wagon",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 6918
+  },
+  {
+    "make": "toyota",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "wagon",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 7898
+  },
+  {
+    "make": "toyota",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "wagon",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 8778
+  },
+  {
+    "make": "toyota",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "sedan",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 6938
+  },
+  {
+    "make": "toyota",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "hatchback",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 7198
+  },
+  {
+    "make": "toyota",
+    "fuel_type": "diesel",
+    "number_of_doors": "four",
+    "body_style": "sedan",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 7898
+  },
+  {
+    "make": "toyota",
+    "fuel_type": "diesel",
+    "number_of_doors": "four",
+    "body_style": "hatchback",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 7788
+  },
+  {
+    "make": "toyota",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "sedan",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 7738
+  },
+  {
+    "make": "toyota",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "hatchback",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 8358
+  },
+  {
+    "make": "toyota",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "sedan",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 9258
+  },
+  {
+    "make": "toyota",
+    "fuel_type": "gas",
+    "number_of_doors": "two",
+    "body_style": "sedan",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 8058
+  },
+  {
+    "make": "toyota",
+    "fuel_type": "gas",
+    "number_of_doors": "two",
+    "body_style": "hatchback",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 8238
+  },
+  {
+    "make": "toyota",
+    "fuel_type": "gas",
+    "number_of_doors": "two",
+    "body_style": "sedan",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 9298
+  },
+  {
+    "make": "toyota",
+    "fuel_type": "gas",
+    "number_of_doors": "two",
+    "body_style": "hatchback",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 9538
+  },
+  {
+    "make": "toyota",
+    "fuel_type": "gas",
+    "number_of_doors": "two",
+    "body_style": "hardtop",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 8449
+  },
+  {
+    "make": "toyota",
+    "fuel_type": "gas",
+    "number_of_doors": "two",
+    "body_style": "hardtop",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 9639
+  },
+  {
+    "make": "toyota",
+    "fuel_type": "gas",
+    "number_of_doors": "two",
+    "body_style": "hatchback",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 9989
+  },
+  {
+    "make": "toyota",
+    "fuel_type": "gas",
+    "number_of_doors": "two",
+    "body_style": "hardtop",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 11199
+  },
+  {
+    "make": "toyota",
+    "fuel_type": "gas",
+    "number_of_doors": "two",
+    "body_style": "hatchback",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 11549
+  },
+  {
+    "make": "toyota",
+    "fuel_type": "gas",
+    "number_of_doors": "two",
+    "body_style": "convertible",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 17669
+  },
+  {
+    "make": "toyota",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "sedan",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 8948
+  },
+  {
+    "make": "toyota",
+    "fuel_type": "diesel",
+    "number_of_doors": "four",
+    "body_style": "sedan",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 10698
+  },
+  {
+    "make": "toyota",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "hatchback",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 9988
+  },
+  {
+    "make": "toyota",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "sedan",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 10898
+  },
+  {
+    "make": "toyota",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "hatchback",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 11248
+  },
+  {
+    "make": "toyota",
+    "fuel_type": "gas",
+    "number_of_doors": "two",
+    "body_style": "hatchback",
+    "engine_location": "front",
+    "number_of_cylinders": "six",
+    "price": 16558
+  },
+  {
+    "make": "toyota",
+    "fuel_type": "gas",
+    "number_of_doors": "two",
+    "body_style": "hatchback",
+    "engine_location": "front",
+    "number_of_cylinders": "six",
+    "price": 15998
+  },
+  {
+    "make": "toyota",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "sedan",
+    "engine_location": "front",
+    "number_of_cylinders": "six",
+    "price": 15690
+  },
+  {
+    "make": "toyota",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "wagon",
+    "engine_location": "front",
+    "number_of_cylinders": "six",
+    "price": 15750
+  },
+  {
+    "make": "volkswagen",
+    "fuel_type": "diesel",
+    "number_of_doors": "two",
+    "body_style": "sedan",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 7775
+  },
+  {
+    "make": "volkswagen",
+    "fuel_type": "gas",
+    "number_of_doors": "two",
+    "body_style": "sedan",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 7975
+  },
+  {
+    "make": "volkswagen",
+    "fuel_type": "diesel",
+    "number_of_doors": "four",
+    "body_style": "sedan",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 7995
+  },
+  {
+    "make": "volkswagen",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "sedan",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 8195
+  },
+  {
+    "make": "volkswagen",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "sedan",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 8495
+  },
+  {
+    "make": "volkswagen",
+    "fuel_type": "diesel",
+    "number_of_doors": "four",
+    "body_style": "sedan",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 9495
+  },
+  {
+    "make": "volkswagen",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "sedan",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 9995
+  },
+  {
+    "make": "volkswagen",
+    "fuel_type": "gas",
+    "number_of_doors": "two",
+    "body_style": "convertible",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 11595
+  },
+  {
+    "make": "volkswagen",
+    "fuel_type": "gas",
+    "number_of_doors": "two",
+    "body_style": "hatchback",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 9980
+  },
+  {
+    "make": "volkswagen",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "sedan",
+    "engine_location": "front",
+    "number_of_cylinders": "five",
+    "price": 13295
+  },
+  {
+    "make": "volkswagen",
+    "fuel_type": "diesel",
+    "number_of_doors": "four",
+    "body_style": "sedan",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 13845
+  },
+  {
+    "make": "volkswagen",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "wagon",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 12290
+  },
+  {
+    "make": "volvo",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "sedan",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 12940
+  },
+  {
+    "make": "volvo",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "wagon",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 13415
+  },
+  {
+    "make": "volvo",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "sedan",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 15985
+  },
+  {
+    "make": "volvo",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "wagon",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 16515
+  },
+  {
+    "make": "volvo",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "sedan",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 18420
+  },
+  {
+    "make": "volvo",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "wagon",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 18950
+  },
+  {
+    "make": "volvo",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "sedan",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 16845
+  },
+  {
+    "make": "volvo",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "sedan",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 19045
+  },
+  {
+    "make": "volvo",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "sedan",
+    "engine_location": "front",
+    "number_of_cylinders": "six",
+    "price": 21485
+  },
+  {
+    "make": "volvo",
+    "fuel_type": "diesel",
+    "number_of_doors": "four",
+    "body_style": "sedan",
+    "engine_location": "front",
+    "number_of_cylinders": "six",
+    "price": 22470
+  },
+  {
+    "make": "volvo",
+    "fuel_type": "gas",
+    "number_of_doors": "four",
+    "body_style": "sedan",
+    "engine_location": "front",
+    "number_of_cylinders": "four",
+    "price": 22625
+  }
+]
